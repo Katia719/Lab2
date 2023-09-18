@@ -89,7 +89,7 @@ You'll notice that your repository already has two branches called `alice` and `
 - [X] Finally, checkout the `main` branch and merge the `alice` branch in (as we did previously).
 
 Now, you are almost ready to share your recipe with the remote! 
-
+git push
 # TASK 3
 
 - [ ] Checkout a new branch called `task_3`.
